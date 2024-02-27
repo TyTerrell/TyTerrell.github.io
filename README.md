@@ -21,3 +21,5 @@
 ## Projects
 ### Screw Compressor Predictive Maintenance - Machine Learning Inverse Modeling Optimization
 [Notebook](FULLPROJECT.ipynb)
+
+
