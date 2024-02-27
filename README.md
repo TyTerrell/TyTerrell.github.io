@@ -23,5 +23,5 @@
 [Notebook](FULLPROJECT.ipynb)
 
 
-[Time Series Comparison](/assets/ts_comparison.png)
+![Time Series Comparison](/assets/ts_comparison.png)
 
