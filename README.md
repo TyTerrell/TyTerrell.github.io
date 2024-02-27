@@ -26,3 +26,5 @@ Used **Python** to train an LSTM Deep Learning Machine Learning model on hourly 
 
 ![Time Series Comparison](/assets/ts_comparison.png)
 
+## Statistics and Data Science Coursework:
+- Statistical Inference, Stochastic Processing, Probability, Advanced Statistical Computing, Data Structures, Intro to Data Science, Machine Learning, Linear Regression, Python, C++, Methods of Analysis
