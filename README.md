@@ -22,6 +22,7 @@
 ### Screw Compressor Predictive Maintenance - Machine Learning Inverse Modeling Optimization
 [Notebook](FULLPROJECT.ipynb)
 
+Used **Python** to train an LSTM Deep Learning Machine Learning model on hourly time-series dependent Screw Compressor data in order to identify causation and correlation of machine decay via the values of the internal vibrations, measured by the vibrations of the bearings inside the compressor. Utilizing the trained model, I ran it through an optimization algorithm to attempt **Inverse Modeling** in order to find optimal values within the system of the compressor to minimize the compressor vibrations, prolonging the health and efficiency of the machinery. The inverse modeling technique takes into account the base threshold of production from the compressor, in order to weigh the pros and cons of operating capacity. This was a project in which I tackled alone in technical execution, however the project matter was given to me from our maintenance engineers, in which I proposed this technique of solving their problem. The model's prediction accuracy of the system was of RMSE:  5.363805283501357e-06 as well as MAE:  7.1338842932800275e-06. The optimization algorithm is still in the works of finalization.
 
 ![Time Series Comparison](/assets/ts_comparison.png)
 
